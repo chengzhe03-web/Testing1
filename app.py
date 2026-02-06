@@ -1,5 +1,5 @@
 def greet():
-    print("Hello from Account A 👋")
+    print("Hello from Account B 🚀")
 
 
 if __name__ == "__main__":
