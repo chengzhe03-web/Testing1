@@ -1,9 +1,5 @@
 def greet():
-<<<<<<< HEAD
-    print("Hello from Account A 👋")
-=======
-    print("Hello from Account B 🚀")
->>>>>>> branch-b
+    print("Hello from Account A 👋 and Account B 🚀")
 
 
 if __name__ == "__main__":
